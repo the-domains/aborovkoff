@@ -1,0 +1,28 @@
+name: ABorovkoff
+favicon: null
+layout_spectrum: 0.7074938567820936
+typography_spectrum: 0.030720866518095136
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.003088011173531413
+  lightness: 0.5818914652336389
+  saturation: 0.2731266238261014
+  rhythmicContrast: 0.4607781954109669
+purpose: []
