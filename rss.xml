@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Abstractika]]></title>
         <description><![CDATA[Abstractika]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aborovkoff/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 01:40:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 02:21:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aborovkoff/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/418c0465-595f-4bf1-8f40-5e33d0ed0d39.jpg">]]></description>
-            <link>undefinedabstract-art-defined-as-if/index.html</link>
+            <link>https://thegrid.ai/aborovkoff/abstract-art-defined-as-if/index.html</link>
             <guid isPermaLink="false">f41e95b1-6c39-40e8-8705-c2f331cab2bb</guid>
             <pubDate>Wed, 23 Mar 2016 01:40:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Sisters Kisd]]></title>
+            <description><![CDATA[<article><h1>A Sisters Kisd</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2d4212a981bc0862f03397e72ca5a325b86b6f84.png"></article>]]></description>
+            <link>https://thegrid.ai/aborovkoff/a-sisters-kisd/index.html</link>
+            <guid isPermaLink="false">92fac367-7b65-4cf8-812b-29d1d3ec2a37</guid>
+            <pubDate>Wed, 23 Mar 2016 02:21:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
