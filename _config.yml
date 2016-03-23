@@ -1,4 +1,4 @@
-name: ABorovkoff
+name: Abstractika
 favicon: null
 layout_spectrum: 0.7074938567820936
 typography_spectrum: 0.030720866518095136
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.003088011173531413
-  lightness: 0.5818914652336389
-  saturation: 0.2731266238261014
-  rhythmicContrast: 0.4607781954109669
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
