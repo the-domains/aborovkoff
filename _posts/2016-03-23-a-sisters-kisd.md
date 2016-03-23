@@ -1,21 +1,27 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:6eabadd4-93d8-4981-9354-203cf5076789'
+inLanguage: null
+starred: false
+keywords: []
 description: ''
+datePublished: '2016-03-23T02:22:58.195Z'
+dateModified: '2016-03-23T02:22:11.897Z'
 author: []
-datePublished: '2016-03-23T02:21:47.304Z'
-publisher:
-  domain: ''
-  name: ''
-title: A Sisters Kisd
-dateModified: '2016-03-23T02:18:41.499Z'
+title: A Sisters Kiss
 sourcePath: _posts/2016-03-23-a-sisters-kisd.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: a-sisters-kisd/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# A Sisters Kisd
+# A Sisters Kiss
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecc518c4-4bd3-4a09-bea5-1fb040f331e4.png)
