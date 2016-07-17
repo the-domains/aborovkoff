@@ -1,29 +1,41 @@
-name: Abstractika
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.86074
 title: Abstractika
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0
+  brandStrength: 0
+  lightness: 0.1875
+  brandColors:
+    - '#906378'
+    - '#D00FB6'
+    - '#FFFFFF'
+    - '#25DDAD'
+    - '#E6A450'
+  rhythmicContrast: 1
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Abstractika
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0
-  lightness: 0.1875
-  saturation: 0
-  rhythmicContrast: 1
-purpose: []
+typography_spectrum: 0.297619
+layout_spectrum: 1
