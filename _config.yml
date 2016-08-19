@@ -19,6 +19,9 @@ analytics:
   twitter: null
   google: null
   facebook: null
+author:
+  name: A Borovkoff
+  email: aborovkoff@mac.com
 name: Abstractika
 cta:
   bucket: null
@@ -37,6 +40,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Abstractika
+title: Abstract thoughts in a modern age
 description: Abstract thoughts in a modern age
 purpose: []
