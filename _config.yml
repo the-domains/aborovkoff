@@ -1,5 +1,30 @@
-title: Abstractika
-purpose: []
+typography_spectrum: 0.297619
+color:
+  saturation: 0
+  brandStrength: 0
+  lightness: 0.1875
+  brandColors:
+    - '#906378'
+    - '#D00FB6'
+    - '#FFFFFF'
+    - '#25DDAD'
+    - '#E6A450'
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6729323
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Abstractika
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0
-  brandStrength: 0
-  lightness: 0.1875
-  brandColors:
-    - '#906378'
-    - '#D00FB6'
-    - '#FFFFFF'
-    - '#25DDAD'
-    - '#E6A450'
-  rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Abstractika
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.297619
-layout_spectrum: 0.6729323
+title: Abstractika
+description: Abstract thoughts in a modern age
+purpose: []
